@@ -37,6 +37,9 @@ public class DatabaseEx01 extends HttpServlet {
 
 			e.printStackTrace();
 		}
+
+		
+
 		
 		mysqlService.disconnect();
 		
